@@ -37,8 +37,6 @@ Pull-up resistors are not required if you're using a breakout board by Adafruit 
 
 Raspberry Pi OS or any variant of Linux for the Pi.
 
-https://www.raspberrypi.com/software/operating-systems/
-
 ## Installation & Setup
 
 1. Clone the repository:
