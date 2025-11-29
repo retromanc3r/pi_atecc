@@ -200,4 +200,4 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) for detai
 
 ## Acknowledgments
 
-Special thanks to the Pico SDK community and Microchip for their excellent documentation and CryptoAuthLib for the ATECC608. Also, credits to GitHub Copilot for assisting in code generation, but all debugging, I2C bus analysis, and code optimization were performed manually.
+Special thanks to the Rapsberry Pi community and Microchip for their excellent documentation and CryptoAuthLib for the ATECC608. Also, credits to GitHub Copilot for assisting in code generation, but all debugging, I2C bus analysis, and code optimization were performed manually.
